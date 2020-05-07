@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588882509747.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2935529645",
+    "id" : "A7BD4D15",
+    "lastKnownWriteTime" : 1588882521,
+    "last_content_update" : 1588882521962,
+    "path" : "~/R/Unlinked/unlinkedmarkdown.Rmd",
+    "project_path" : "unlinkedmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
